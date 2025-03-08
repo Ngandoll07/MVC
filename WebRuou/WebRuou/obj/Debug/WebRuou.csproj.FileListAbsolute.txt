@@ -243,3 +243,7 @@ C:\Users\LENOVO\Documents\Thương mại điện tử\WebRuou\MVC\WebRuou\WebRuo
 C:\Users\LENOVO\Documents\Thương mại điện tử\WebRuou\MVC\WebRuou\WebRuou\obj\Debug\WebRuou.csproj.Up2Date
 C:\Users\LENOVO\Documents\Thương mại điện tử\WebRuou\MVC\WebRuou\WebRuou\obj\Debug\WebRuou.dll
 C:\Users\LENOVO\Documents\Thương mại điện tử\WebRuou\MVC\WebRuou\WebRuou\obj\Debug\WebRuou.pdb
+C:\Users\LENOVO\Documents\Thương mại điện tử\WebRuou\MVC\WebRuou\WebRuou\bin\PagedList.dll
+C:\Users\LENOVO\Documents\Thương mại điện tử\WebRuou\MVC\WebRuou\WebRuou\bin\PagedList.Mvc.dll
+C:\Users\LENOVO\Documents\Thương mại điện tử\WebRuou\MVC\WebRuou\WebRuou\bin\PagedList.xml
+C:\Users\LENOVO\Documents\Thương mại điện tử\WebRuou\MVC\WebRuou\WebRuou\bin\PagedList.Mvc.xml
