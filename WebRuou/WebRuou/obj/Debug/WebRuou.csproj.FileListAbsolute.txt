@@ -218,6 +218,8 @@ C:\Users\LENOVO\Documents\Thương mại điện tử\WebRuou\MVC\WebRuou\WebRuo
 C:\Users\LENOVO\Documents\Thương mại điện tử\WebRuou\MVC\WebRuou\WebRuou\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\LENOVO\Documents\Thương mại điện tử\WebRuou\MVC\WebRuou\WebRuou\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\LENOVO\Documents\Thương mại điện tử\WebRuou\MVC\WebRuou\WebRuou\bin\Newtonsoft.Json.dll
+C:\Users\LENOVO\Documents\Thương mại điện tử\WebRuou\MVC\WebRuou\WebRuou\bin\PagedList.dll
+C:\Users\LENOVO\Documents\Thương mại điện tử\WebRuou\MVC\WebRuou\WebRuou\bin\PagedList.Mvc.dll
 C:\Users\LENOVO\Documents\Thương mại điện tử\WebRuou\MVC\WebRuou\WebRuou\bin\System.Web.Helpers.dll
 C:\Users\LENOVO\Documents\Thương mại điện tử\WebRuou\MVC\WebRuou\WebRuou\bin\System.Web.Mvc.dll
 C:\Users\LENOVO\Documents\Thương mại điện tử\WebRuou\MVC\WebRuou\WebRuou\bin\System.Web.Optimization.dll
@@ -228,6 +230,8 @@ C:\Users\LENOVO\Documents\Thương mại điện tử\WebRuou\MVC\WebRuou\WebRuo
 C:\Users\LENOVO\Documents\Thương mại điện tử\WebRuou\MVC\WebRuou\WebRuou\bin\WebGrease.dll
 C:\Users\LENOVO\Documents\Thương mại điện tử\WebRuou\MVC\WebRuou\WebRuou\bin\EntityFramework.xml
 C:\Users\LENOVO\Documents\Thương mại điện tử\WebRuou\MVC\WebRuou\WebRuou\bin\EntityFramework.SqlServer.xml
+C:\Users\LENOVO\Documents\Thương mại điện tử\WebRuou\MVC\WebRuou\WebRuou\bin\PagedList.xml
+C:\Users\LENOVO\Documents\Thương mại điện tử\WebRuou\MVC\WebRuou\WebRuou\bin\PagedList.Mvc.xml
 C:\Users\LENOVO\Documents\Thương mại điện tử\WebRuou\MVC\WebRuou\WebRuou\bin\System.Web.Helpers.xml
 C:\Users\LENOVO\Documents\Thương mại điện tử\WebRuou\MVC\WebRuou\WebRuou\bin\System.Web.Mvc.xml
 C:\Users\LENOVO\Documents\Thương mại điện tử\WebRuou\MVC\WebRuou\WebRuou\bin\System.Web.Optimization.xml
@@ -243,7 +247,3 @@ C:\Users\LENOVO\Documents\Thương mại điện tử\WebRuou\MVC\WebRuou\WebRuo
 C:\Users\LENOVO\Documents\Thương mại điện tử\WebRuou\MVC\WebRuou\WebRuou\obj\Debug\WebRuou.csproj.Up2Date
 C:\Users\LENOVO\Documents\Thương mại điện tử\WebRuou\MVC\WebRuou\WebRuou\obj\Debug\WebRuou.dll
 C:\Users\LENOVO\Documents\Thương mại điện tử\WebRuou\MVC\WebRuou\WebRuou\obj\Debug\WebRuou.pdb
-C:\Users\LENOVO\Documents\Thương mại điện tử\WebRuou\MVC\WebRuou\WebRuou\bin\PagedList.dll
-C:\Users\LENOVO\Documents\Thương mại điện tử\WebRuou\MVC\WebRuou\WebRuou\bin\PagedList.Mvc.dll
-C:\Users\LENOVO\Documents\Thương mại điện tử\WebRuou\MVC\WebRuou\WebRuou\bin\PagedList.xml
-C:\Users\LENOVO\Documents\Thương mại điện tử\WebRuou\MVC\WebRuou\WebRuou\bin\PagedList.Mvc.xml
