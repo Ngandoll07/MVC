@@ -36,9 +36,10 @@
         <!-- Đăng nhập bằng mạng xã hội -->
         <div class="social-login">
             <p>Hoặc đăng nhập bằng</p>
-            <button class="fb">Facebook</button>
-            <button class="google">Google</button>
+            <a href="@Url.Action("ExternalLogin", "Login", new { provider = "Facebook", returnUrl = "/" })")" class="btn fb">Đăng nhập với Facebook</a>
+            <a href="@Url.Action("ExternalLogin", "Login",new { provider = "Google", returnUrl = "/" })" class="btn google">Đăng nhập với Google</a>
         </div>
+
     </div>
     <!-- Hero End -->
 
