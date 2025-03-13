@@ -109,6 +109,7 @@
     <Property Name="Address" Type="nvarchar" MaxLength="255" />
     <Property Name="Phone" Type="nvarchar" MaxLength="15" />
     <Property Name="CreatedAt" Type="datetime" />
+    <Property Name="IsActive" Type="bit" />
   </EntityType>
   <EntityType Name="Wishlist">
     <Key>

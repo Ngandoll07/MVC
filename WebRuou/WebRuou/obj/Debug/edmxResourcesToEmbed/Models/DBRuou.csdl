@@ -131,6 +131,7 @@
     <NavigationProperty Name="Orders" Relationship="Self.FK__Orders__UserID__5629CD9C" FromRole="Users" ToRole="Orders" />
     <NavigationProperty Name="Reviews" Relationship="Self.FK__Reviews__UserID__5EBF139D" FromRole="Users" ToRole="Reviews" />
     <NavigationProperty Name="Wishlists" Relationship="Self.FK__Wishlist__UserID__6C190EBB" FromRole="Users" ToRole="Wishlist" />
+    <Property Name="IsActive" Type="Boolean" />
   </EntityType>
   <EntityType Name="Wishlist">
     <Key>
